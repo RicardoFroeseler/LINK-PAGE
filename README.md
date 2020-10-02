@@ -36,7 +36,7 @@
 * CSS - Responsible for styling my page
 
 ### Page
-https://ricardofroeseler.github.io/LINK-PAGE/`
+https://ricardofroeseler.github.io/LINK-PAGE/
 <br />
 <br />
 <br />
