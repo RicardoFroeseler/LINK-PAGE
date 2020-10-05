@@ -2,12 +2,8 @@
 <h3 align="center">A page developed in HTML and CSS to promote the links of my social networks.😜</h3>
 
 
-<blockquote align="center">“"Chihiro, what a beautiful name. 
-Take good care of him, it's yours."
-Zeniba.”</blockquote>
-
-> "Chihiro, what a beautiful name. 
-> Take good care of him, it's yours."
+<blockquote align="center">“Chihiro, what a beautiful name. 
+Take good care of him, it's yours.”</blockquote>
 > Zeniba.
 
 <p align="center">
