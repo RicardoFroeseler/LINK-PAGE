@@ -8,6 +8,13 @@
 > Take good care of him, it's yours."
 > Zeniba.
 
+<p align="center">
+  <a href="">
+    <img alt="Made by Ricardo Froeseler" src="https://img.shields.io/badge/made%20by-Ricardo Froeseler-%23F8952D">
+  </a>
+</p>
+
+
 <br />
 
 # 💻These are my social networks
