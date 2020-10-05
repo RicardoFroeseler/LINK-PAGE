@@ -3,8 +3,8 @@
 
 
 <blockquote align="center">“Chihiro, what a beautiful name. 
-Take good care of him, it's yours.”</blockquote>
-> Zeniba.
+Take good care of him, it's yours.”
+Zeniba.</blockquote>
 
 <p align="center">
   <a href="">
