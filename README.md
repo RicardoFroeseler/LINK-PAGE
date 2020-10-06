@@ -27,6 +27,10 @@ Zeniba.</blockquote>
 
 - 🇧🇷 Born in Minas Gerais, Belo Horizonte, Brazil
 
+### Developing the project step by step
+[![](http://img.youtube.com/vi/5Y4ht_kxAd4/0.jpg)](http://www.youtube.com/watch?v=5Y4ht_kxAd4 "🔗 Link management 🔗 | CONSTRUINDO UMA PAGINA DE LINKS PARA O INSTAGRAM")
+
+
 ### you can see my content at
 - 🍿Content creator on <a href="https://www.youtube.com/channel/UC3Bl-YpXGEczV2Wxd3lGS5w?view_as=subscriber">Youtube</a>
 - 🍿Content creator on <a href="https://www.instagram.com/ricardo_froeseler/">instagram</a>
