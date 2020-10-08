@@ -25,7 +25,6 @@ Zeniba.</blockquote>
 
 - The website developed gives you a personalized appearance and easy customization that is responsible for hosting all the links that are important to be shared with your audience. It can be used on different digital platforms such as Instagram, TikTok, Twitch, Facebook, YouTube, Twitter or even LinkedIn and is an excellent tool to promote your work, brand or business.vvv
 
-- 🇧🇷 Born in Minas Gerais, Belo Horizonte, Brazil
 
 ### Developing the project step by step
 [![](http://img.youtube.com/vi/5Y4ht_kxAd4/0.jpg)](http://www.youtube.com/watch?v=5Y4ht_kxAd4 "🔗 Link management 🔗 | CONSTRUINDO UMA PAGINA DE LINKS PARA O INSTAGRAM")
@@ -51,3 +50,7 @@ https://ricardofroeseler.github.io/LINK-PAGE/
 <br />
 
 <h3 align="center">A self-taught programmer in training designer by passion who loves games and drawings.😜</h3>
+
+<p align="center">
+🇧🇷 Born in Minas Gerais, Belo Horizonte, Brazil
+</p>
